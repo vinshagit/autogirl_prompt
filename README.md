@@ -20,7 +20,7 @@ prompt.txt 的內容貼到stable-diffusion 正反prompt還有各項參數。<br/
 
 <br/>
 * 2.0版<br/>
-請下載1.0目錄裡的所有檔案。<br/>
+請下載2.0目錄裡的所有檔案。<br/>
 然後複製hair_color.txt,shoes.txt,job.txt與backgrounds_colors.txt 到（你的stable-diffusion-webui）\extensions\sd-dynamic-prompts\wildcards<br/>
 請到webui的wildcards Manager tab頁面，使用Refresh Wildcards按鍵，刷新增加的wildcards內容<br/>
 <br/>
