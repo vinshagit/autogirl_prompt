@@ -1,0 +1,119 @@
+ruins
+castle
+church, cathedral
+guild
+Tavern,
+hotel
+cliff,
+beach,
+sea,
+riverside,
+river,
+open:air hot springs / openair onsen,
+medieval villiage,
+pub,
+magnificent indoor hall,
+magnificent indoor hall with chandelier,
+training course,
+street scenery,
+bathroom,
+medieval Tavern,
+brothel,
+school, academy,
+lakeside
+lacetrimmed panties,
+starry sky,
+grassland
+fireworks
+campus toilet,
+city
+park
+stairs
+office
+theme park
+swing
+gym
+bus stop
+airport
+snow mountain
+Coin Locker
+escalator
+camp site
+stadium
+waterfall
+window
+curtain
+Venetian blind
+floor-to-ceiling windows
+skort pants
+bathtub
+washbasin
+Big Ben
+sofa
+swimming pool
+library
+movie theater
+Great Wall of China
+Colosseum
+bridge
+windmill
+cave
+tunnel
+karaoke
+hospital
+trading card
+train cabin
+remove background
+pyramid
+palace
+architecture
+torii
+sauna
+a sky full of twinkling stars,
+scattered luminous petals
+Studio
+Christmas street
+scattered_leaves
+Flying_colored_shredded_paper
+many_colorful_petals_are_flying
+big_colorful_Bubble
+floating_light_spot
+Glowing_butterflies
+floating_snowflake
+flower_petals
+dandelion
+fall_leaves
+autumn_leaves
+snowflakes
+feather
+feather
+shredded_paper
+Gravel
+pearl
+balloon
+paper_lantern
+wind
+flame
+sparks
+explosion
+fireworks
+aerial_fireworks
+electricity
+wind_lift
+visible_air
+sparkle
+squiggle
+jaggy_lines
+blinking
+pentagram
+crowd
+everyone
+yin_yang
+yin_yang_orb
+chinese_zodiac
+magic_circle
+Kaleidoscope
+electric_scoreboard
+neon
+outdoors
+panorama

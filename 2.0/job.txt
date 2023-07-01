@@ -1,0 +1,105 @@
+countrywoman
+Witch
+Bard
+Dancer
+Merchant
+Sorceress
+cheerleader,
+maid,
+Nurse
+Nun,
+Miss
+miko
+Police/Detective
+student
+Bluecollar Worker
+Warrior
+Berserker
+Barbarian
+Mercenary
+Rider
+Dragoon
+Paladin
+Grappler
+Archer
+Crossbowman
+Pirate
+Thief
+Assassin
+Ranger
+Witch
+Mage
+Cleric
+Summoner
+Kunoichi (Ninja Girl)
+magical girl
+lifeguard		
+boxer		
+scientist		
+athletes		
+office	lady	
+monk		
+crobat		
+nun		
+nurse		
+stewardess		
+student		
+waitress		
+teacher		
+racer		
+police		
+soldier		
+cheerleader		
+actor		
+actress		
+spy		
+agent		
+assassin		
+samurai		
+dancing girl	
+motorcyclist		
+hacker		
+magician		
+detective		
+doll		
+maid		
+pilot		
+diver		
+bar	censor	
+missionary		
+firefighter		
+goalkeeper		
+chef		
+astronaut		
+cashier		
+mailman		
+barista		
+the	hermit	
+makihitsuji		
+pokemon		
+teddy bear
+mario	
+pikachu		
+neon genesis evangelion
+hatsune miku	
+harry	potter	
+doraemon		
+saint seiya	
+gojou satoru	
+avengers		
+mazinger		
+captain america	
+crayon shin-chan	
+slam dunk	
+sun wukong	
+witch		
+ninja		
+vampire		
+knight		
+magical_girl		
+orc		
+druid		
+elf		
+fairy		
+rider		
+alter
